@@ -1,0 +1,19 @@
+.img-fluid {
+    opacity: 0.5;
+}
+
+.container {
+    position: relative;
+    max-width: 100%;
+    height: auto;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+.card-title {
+    text-align: center;
+}
