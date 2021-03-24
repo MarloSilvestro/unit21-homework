@@ -8,12 +8,23 @@
     height: auto;
 }
 
-.bottom-left {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
+.col {
+    text-align: center;
+}
+
+.card-img-top {
+    text-align: center;
 }
 
 .card-title {
     text-align: center;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.flexcontainer {
+    display: flex;
+    justify-content: space-between;
 }
